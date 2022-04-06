@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "hibridApplicationsBasicAngular",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
